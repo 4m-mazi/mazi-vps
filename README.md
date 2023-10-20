@@ -1,0 +1,2 @@
+# mazi-vps
+まじでVPS
